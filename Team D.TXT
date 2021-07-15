@@ -1,0 +1,11 @@
+Maddy Casr :Team D :19 :Captain
+Jadon Guerra  :Team D :18 :Vice-Captain
+Jimmy Greer :Team D :20 :Wicket-Keeper
+Tyreece Hester :Team D :19 :Batsman
+Arnav Carr :Team D :21 :Batsman
+Rahman Cameron :Team D :19  :Batsman
+Enrico Shepard :Team D :18 :Batsman
+Alejandro Webber :Team D :17 :Batsman
+Kobi Everett :Team D :19 :Bowler
+Martin Maldonado :Team D :20 :Bowler
+Kerry Haigh :Team D :19 :Bowler

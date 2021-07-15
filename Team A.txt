@@ -1,0 +1,11 @@
+Tom Banton :Team A :19  :Captain
+Rory Burns :Team A :20 :Vice-Captain
+Art Kelliher :Team A :19 :Wicket-Keeper
+Jess Yancey :Team A :18 :Batsman
+Willy Quimby :Team A :21 :Batsman
+Peter Pinkham :Team A :19 :Batsman
+Forest Calnan :Team A :20:Batsman
+Josue Vosburg :Team A :19 :Bowler
+Micheal Chai :Team A :20:Bowler
+Alexis Haughey :Team A :21:Bowler
+Arthur Clairmont :Team A :18:Bowler

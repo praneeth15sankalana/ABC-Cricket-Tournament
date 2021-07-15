@@ -1,0 +1,11 @@
+Praneeth:Team J :21 :captain
+Nirmal : Team J :21 :Vice-Captain
+Syuru : Team J : 20 :Batsman
+Dumindu: Team J : 20 :Batsman
+Gajasinghe: Team J : 20 :Batsman
+Okitha: Team J : 20 :Batsman
+Kavindu: Team J : 20 :Batsman
+Udayanga: Team J : 20 :Batsman
+Chameera: Team J : 20:Bowler
+Kaveen: Team J : 20:Bowler
+Pradeep: Team J : 20:Bowler

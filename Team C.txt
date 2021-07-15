@@ -1,0 +1,11 @@
+Ralphie Schmidt : Team C : 19 : Captain
+Dawson Winters : Team C : 20 : Vice-Captain
+Kaan Shepherd : Team C : 19 : Wicket-Keeper
+Jovan Bonilla : Team C : 18 : Batsman
+Antoni Busby : Team C : 21 : Batsman
+Brogan Costa : Team C : 19 : Batsman
+Murat Lucero : Team C : 20: Batsman
+Troy Palacios : Team C : 19 : Bowler
+Jaime Hendricks : Team C : 20: Bowler
+Che Shields : Team C : 21: Bowler
+Nolan Underwood : Team C : 18: Bowler

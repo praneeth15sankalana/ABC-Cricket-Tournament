@@ -1,0 +1,11 @@
+Jules Lowery :Team H :20 :Captain
+Albert Workman :Team H :18  :Vice-Captain
+Eliot Gibbs :Team H :19 :Wicket-Keeper
+Aaron Byrne :Team H :20:Batsman
+Huzaifah Riley :Team H :18 :Batsman
+Jaylen Noble :Team H :19:Batsman
+Vihaan Cooke :Team H :20:Batsman
+Ilyas Mendoza :Team H :19:Batsman
+Avi Pickett :Team H :20:Batsman
+Zaydan Fleming :Team H :19:Bowler
+Ismael Blundell :Team H :20:Bowler

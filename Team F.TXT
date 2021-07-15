@@ -1,0 +1,11 @@
+Dewey Reeves :Team F :20  :Captain
+Kiaan Hume :Team F:18 :Vice-Captain
+Diego Tait :Team F :20  :Wicket-Keeper
+Maddison Metcalfe :Team F:17:Batsman
+Mack Lam :Team F:17:Batsman
+Vicky Hunt :Team F:18:Batsman
+Lawrence Ballard :Team F :20 :Batsman
+John-Paul Burton :Team F:17 :Bowler
+Inigo Chang :Team F:18 :Bowler
+Pranav Strickland :Team F :20  :Bowler
+Jonathan Ryder :Team :17 :Bowler

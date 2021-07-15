@@ -1,0 +1,11 @@
+Landon Malone :Team E :20  :Captain
+Dafydd Dorsey :Team E :21  :Vice-Captain
+Dillon Rivera :Team E :19  :Wicket-Keeper
+Ayman Peters :Team E :20  :Batsman
+Bruce Randolph :Team E :20  :Batsman
+Ptolemy Burris :Team E :17  :Batsman
+Ramone Rodriguez :Team E :18  :Batsman
+Murphy Garrison :Team E :20  :Batsman
+Woodrow Carney :Team E :18 :Bowler 
+Alexie Wardle :Team E :18 :Bowler
+Augustus Robson :Team E :20 :Bowler

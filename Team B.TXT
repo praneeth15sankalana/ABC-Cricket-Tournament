@@ -1,0 +1,11 @@
+Jack Garner :Team B :20  :Captain
+Maximilian Hood :Team B :19 :Vice-Captain
+Mohammod  Nasar :Team B :18 :Wicket-Keeper
+Osian Tierney :Team B :17 :Batsman
+Nikki Serrano :Team B :21 :Batsman
+Harleigh Shea :Team B :19 :Batsman
+Hubert Kaur :Team B :20 :Batsman
+Anees Lovell :Team B :19 :Batsman
+Marni Lozano :Team B :19 :Bowler
+Xander Maxwell :Team B :20 :Bowler
+Finlay Dean :Team B :21 :Bowler
